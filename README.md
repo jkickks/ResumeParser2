@@ -1,7 +1,7 @@
 # ResumeParser
 
 
-1. Run `git clone https://github.com/faizancodes/ResumeParser.git`
+1. Run `git clone https://github.com/jkickks/ResumeParser2.git`
 2. Run `cd ResumeParser`
 3. Run the command: `npm init -y`
 4. Run the command `npm install`
